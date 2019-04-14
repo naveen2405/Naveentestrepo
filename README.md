@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Steps to run
 
 -Create the mysql database/tables/ from db.sql
@@ -14,3 +15,6 @@ Steps to run
 -Access the app at
  
  http://localhost:8080/crudApp
+=======
+# Naveentestrepo
+>>>>>>> origin/master
